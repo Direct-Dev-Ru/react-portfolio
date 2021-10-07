@@ -1,5 +1,6 @@
-import React from "react";
+// eslint-disable-next-line
+import React from 'react';
 
 export default function App() {
-  return "App";
+  return 'App';
 }
